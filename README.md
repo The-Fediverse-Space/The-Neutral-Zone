@@ -1,2 +1,2 @@
-# the-neutral-zone
+# The Neutral Zone
 The Fediverse Space 
