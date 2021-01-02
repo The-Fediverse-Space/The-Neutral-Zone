@@ -1,2 +1,2 @@
 # The Neutral Zone
-[Censorship | Coronae Borealis](https://censorship.icu)
+[Censorship (Coronae Borealis)](https://censorship.icu)
