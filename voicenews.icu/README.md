@@ -1,2 +1,2 @@
 # The Neutral Zone
-[🌌 Voice News (Argo Navis)](https://voicenews.icu)
+[Voice News (Argo Navis)](https://voicenews.icu)
