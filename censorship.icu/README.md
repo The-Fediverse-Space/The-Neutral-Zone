@@ -1,1 +1,1 @@
-* Readme
+* https://censorship.icu
