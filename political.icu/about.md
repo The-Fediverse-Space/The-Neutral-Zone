@@ -14,43 +14,43 @@ _Indefinitely_
 ## How we will pay for this instance
 _The platform is funded by Private Donors who believe in FREE Speech!_
 
-# INFORMATION
+## INFORMATION
 
-## Description
+### Description
 
 Welcome to the Fediverse ICU Network
 
 https://fediverse.space from more details.
 
-# MODERATION
+## MODERATION
 
-## Moderation information
+### Moderation information
 
 No Political videos are censored or removed from the Political.ICU Platform. Only the owner or creator of content can remove or disable their videos.
 
 No Adult content is permitted on the Political.ICU Platform.
 
-# Code of conduct
+## Code of conduct
 
-## About Us
+### About Us
 
-[](Political.ICU) is an Online Media publication devoted to the thoughtful exploration of issues of importance to Americans. Contributors are accomplished in fields beyond journalism and animated to write for the general public out of concern for the complex and morally significant questions on the national agenda.
+[Political.ICU](Political.ICU) is an Online Media publication devoted to the thoughtful exploration of issues of importance to Americans. Contributors are accomplished in fields beyond journalism and animated to write for the general public out of concern for the complex and morally significant questions on the national agenda.
 
 There is no limit to the topics appearing in Political.ICU. National security and geopolitics in all its dimensions — strategic, economic, diplomatic, and military — are emphasized. The right to exist and the survival of the State of Israel is of great importance to us. Business, science, technology, medicine, management, and economics in their practical and ethical dimensions are also emphasized, as is the state of American culture.
 
-[](Political.ICU) Comment Rules:
+[Political.ICU](Political.ICU) Comment Rules:
 
-[](Political.ICU) is a community for the civil and thoughtful discussion of issues. Political.ICU is not a chatroom, it is a video delivery platform. Comments are moderated not for censorship but to keep the discussion civil.
+[Political.ICU](Political.ICU) is a community for the civil and thoughtful discussion of issues. Political.ICU is not a chatroom, it is a video delivery platform. Comments are moderated not for censorship but to keep the discussion civil.
 
-[](Political.ICU) is a privately owned online media platform. Publishing a video on Political.ICU is a privilege, not a right.
+[Political.ICU](Political.ICU) is a privately owned online media platform. Publishing a video on Political.ICU is a privilege, not a right.
 
-## REQUIRED:
+### REQUIRED:
 
 * Comments must be on-topic.
 * Comments must add to the discussion.
 * Comments must be civil (no slurs, scorn, profanity).
 
-# UNACCEPTABLE:
+### UNACCEPTABLE:
 
 * Attacks on others: scorn, slurs, name-calling, ad hominem attacks.
 * Attacks on race, ethnic groups, sexual orientation, religious preferences, nonbelievers.
@@ -66,46 +66,46 @@ There is no limit to the topics appearing in Political.ICU. National security an
 * Advocacy of illegal activity (a refusal to pay taxes, etc).
 * False premises, crystal ball readings, speaking for others, stereotyping.
 
-# Terms
+## Terms
 
-## Privacy
+### Privacy
 
-### For EU Members
+#### For EU Members
 ________________________________________________________
 
 Because of the E.U. Cookie Law, we must inform you of the usage of cookies and why we use them. Cookies are used here to authenticate you and save your settings, nothing else.
 
 If a governmental authority asks us for your information, you will be notified by email as soon as possible.
 
-### Content
+#### Content
 
 Political.icu is not responsible for any of the content available on the Fediverse ICU Network. But, as a user, you are responsible for the content you upload. Please have a look at our Code of conduct and the Moderation info.
 
 You further acknowledge and agree that we can not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such web sites or services.
 
-### Quota
+#### Quota
 
 Each account in this instance has an initial quota of 1GB.
 Multiple accounts are prohibited: if you want more quota, please use the contact form.
 
-### DMCA/Copyright
+#### DMCA/Copyright
 
 Political.icu process DMCA takedown requests only if the request is from the author of the content or a legal representative.
 
-### Changes
+#### Changes
 
 Political.icu reserves the right, at our sole discretion, to modify or replace these terms at any time.
 
-# Contact Us
+## Contact Us
 
 If you have any questions about these terms, please use the contact form.
 
-# YouTube Channel Creators
+## YouTube Channel Creators
 
 If you are a content creator on YouTube and wan to protect your hard work from any future censorship, please use the contact form to get more details about our special packages.
 
-# OTHER INFORMATION
+## OTHER INFORMATION
 
-## Hardware information
+### Hardware information
 
 Network Services provided by iBlockchain Bank & Trust Technologies Co. https://ibbt.io
