@@ -43,7 +43,7 @@ There is no limit to the topics appearing in Censorship.ICU. National security a
 
 [Censorship.ICU](Censorship.ICU) is a community for the civil and thoughtful discussion of issues. Censorship.ICU is not a chatroom, it is a video delivery platform. Comments are moderated not for censorship but to keep the discussion civil.
 
-[Censorship.ICU](Censorship.ICU) is a privately owned online media platform. Publishing a video on Political.ICU is a privilege, not a right.
+[Censorship.ICU](Censorship.ICU) is a privately owned online media platform. Publishing a video on Censorship.ICU is a privilege, not a right.
 
 ### REQUIRED:
 
